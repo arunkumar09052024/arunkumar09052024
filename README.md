@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arun Kumar
-- 👀 I’m Data Science intern at Ideapoke
+- 👀 I’m Associate Data Scientist at Ideapoke
 - 🌱 I’m currently working on Generative Ai
 - 💞️ I’m looking to collaborate on Data Science and Software Development
 - 📫 Reach me at arun.kumar@ideapoke.com
